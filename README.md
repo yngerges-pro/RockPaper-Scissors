@@ -23,4 +23,4 @@ says quit. Try it!
 
 
 ## Video Walkthrough (GIF)
-![](https://recordit.co/AKTj9hruhF) 
+![](https://recordit.co/AKTj9hruhF.gif) 
